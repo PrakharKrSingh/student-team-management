@@ -147,60 +147,6 @@ This will create a `dist` directory with static files that can be served by any 
 
 The backend can be deployed to any Node.js hosting service like Heroku, Render, or Railway.
 
-## Contributers
-
-<div align="center"> 
-  <table>
-<tr align="center">
- <td>
-
-#### Dhruv Pratap Singh
-
-<p align="center">
-<img src = "https://media.licdn.com/dms/image/v2/D4D03AQHL32wwHfqFng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726068058952?e=1751500800&v=beta&t=fBrYqODJtazO2xbvVl9FLMgM-IfoSqtqHVigkyxjxyo"  height="120" alt="Dhruv Pratap Singh">
-</p>
-<p align="center">
-<a href = "https://github.com/dhruvgit-27"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/dhruv-pratap-716403303/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
- <strong>ML & Front-End Developer<strong>
-</td>
-
- <td>
-
-#### Manas Joshi
-
-<p align="center">
-<img src = "https://media.licdn.com/dms/image/v2/D5603AQFS-uSiq8aIIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705914887851?e=1751500800&v=beta&t=7ekBYTQYWbIEMHOhrf-KAwQ4MGx1GvRIBSP2ARiYbd8"  height="120" alt="Manas Joshi">
-</p>
-<p align="center">
-<a href = "https://github.com/manasj007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/manas-joshi-811802251/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
- <strong>Front-End Developer<strong>
-
- <td>
-
-#### Harsh Kumar Banka
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/56753150?v=4"  height="120" alt="Harsh Kumar Banka">
-</p>
-<p align="center">
-<a href = "https://github.com/LordHarsh"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/harsh-banka/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
- <strong>ML & Full-Stack Developer<strong>
-</td>
-</tr>
-</table>
-</div>
 ## License
 
 This project is licensed under the MIT License.
