@@ -147,7 +147,7 @@ const HomePage = () => {
                 Checkout our GitHub repository for more information.
               </p>
               <Link
-                to="https://github.com/LordHarsh/student-team-management"
+                to="https://github.com/PrakharKrSingh/student-team-management"
                 className="button outline"
                 style={{
                   display: "inline-flex",
