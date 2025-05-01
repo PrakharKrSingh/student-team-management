@@ -13,7 +13,7 @@ const Footer = () => {
     }}>
       <div className="container">
         <p style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '5px' }}>
-          &copy; {currentYear} Team Maestro. Made with <FaHeart style={{ color: 'var(--accent-color)' }} /> by Harsh, Manas, and Dhruv
+          &copy; {currentYear} Team Maestro. Made with <FaHeart style={{ color: 'var(--accent-color)' }} /> by Prakhar, Satvik, and Akshat
         </p>
       </div>
     </footer>
