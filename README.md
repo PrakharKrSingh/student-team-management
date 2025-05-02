@@ -96,7 +96,7 @@ student-team-management/
    npm run dev
    ```
 
-The backend will be running on http://localhost:5000.
+The backend will be running on http://localhost:5173.
 
 ### Frontend Setup
 
@@ -117,7 +117,7 @@ The backend will be running on http://localhost:5000.
    npm run dev
    ```
 
-The frontend will be running on http://localhost:3000.
+The frontend will be running on http://localhost:8080.
 
 ## API Endpoints
 
